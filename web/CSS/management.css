@@ -1,0 +1,70 @@
+body{
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    background-color: #7f1072;
+    color: #bdafbb;
+    flex-direction: column;
+    align-items: center;
+}
+#console{
+    background-color: #7f1072;
+    color: #ffdaf8;
+    position: relative;
+    width: 100vw;
+    height: 96.5vh;
+    overflow-y: scroll;
+}
+#console::-webkit-scrollbar {
+    width: 3px; /* 定义滚动条的宽度 */
+}
+
+#console::-webkit-scrollbar-track {
+    background: #ff7cf7; /* 定义滚动条轨道的背景色 */
+}
+
+#console::-webkit-scrollbar-thumb {
+    background: #cba4c6; /* 定义滚动条的颜色 */
+}
+#output{
+    position: relative;
+    font-size: smaller;
+    padding: 5px;
+    font-family: "Lucida Console", monospace;
+    overflow-wrap: break-word;
+}
+#input{
+    position: relative;
+    margin: 5px 5px;
+    text-align: start;
+    width: 96.5vw;
+    height: 27px;
+    border-radius: 5px;
+    border-color: #ff35ec;
+    background-color: #af68ab;
+    color: #ffd6fe;
+    transition: background-color 0.5s, color 0.5s;
+    font-family: "Lucida Console", monospace;
+}
+#input:hover{
+    background-color: #fdcaf8;
+    color: #232323;
+}
+.systemSpec{
+    color: #ff7cf7;
+}
+.systemOut{
+    color: #fc0;
+}
+.systemIn{
+    color: #ffffff;
+}
+.systemErr{
+    color: #ff0100;
+}
+.entityErr{
+    color: #009fff;
+}
+.entityRpt{
+    color: #ff863c;
+}

@@ -1,0 +1,13 @@
+$.ajax({
+            url: '',
+            data: {
+            },
+            type: '',
+            dataType: '',
+            success: (data) => {
+            },
+            error: (error) => {
+            },
+            complete: () => {
+            }
+        })
