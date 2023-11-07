@@ -1,0 +1,1 @@
+[{"id":1,"banned":0,"isAdmin":0,"account":"test1","password":"test1"},{"id":2,"banned":0,"isAdmin":1,"account":"admin","password":"admin"},{"id":3,"banned":0,"isAdmin":0,"account":"wohl","password":"wohl"},{"id":4,"banned":0,"isAdmin":0,"account":"chx","password":"chx"},{"id":5,"banned":0,"isAdmin":0,"account":"Hugo","password":"Hugo"}]

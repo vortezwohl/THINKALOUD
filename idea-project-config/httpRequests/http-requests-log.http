@@ -1,0 +1,338 @@
+GET http://localhost:8080/list-all-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-06T071400.200.txt
+
+###
+
+GET http://localhost:8080/list-all-users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-06T071227.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client?userId=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124309.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client?userId=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124308.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client?userId=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T015816.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T015709.500.html
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T015708.500.html
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T015707.500.html
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T011720.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T010941.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T010744.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T010615.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T010511.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T010120.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T125233.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T125015.200.txt
+
+###
+
+GET http://localhost:8080/login?account=wohl&password=wohl
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124708.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124417.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124400.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124324.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124234.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T124053.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123933.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123931.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123930.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123929.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123928.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123449.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123437.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123436.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123435.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123420.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123418.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123417-1.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123417.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-11-01T123346.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-10-31T103110.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-10-31T103043.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-10-31T102926.200.txt
+
+###
+
+GET http://localhost:8080/fetch-diary-client
+Accept: */*
+Cache-Control: no-cache
+
+<> 2023-10-31T102746.200.txt
+
+###
+
+GET http://localhost:8080/test?account=test1&password=test1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/test?account=test1&password=test1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/test?account=test1&password=test1
+Accept: */*
+Cache-Control: no-cache
+
+###
+

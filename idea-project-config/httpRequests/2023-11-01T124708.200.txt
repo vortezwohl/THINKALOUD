@@ -1,0 +1,1 @@
+{"id":0,"banned":0,"isAdmin":0,"account":null,"password":null}
