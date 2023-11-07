@@ -34,6 +34,9 @@ Administrator end:
   read/type/cat[Id]: load a diary to screen by DiaryId.
   
   show[scope][-filter/-f][filter]: list users or diaries under conditions or list them all without precondition(scope could be users or diaries).
+  
+# Idea Config
+Override files in /.idea with repo in /idea-project-config
 
 # Database Confifuration Bean
 
