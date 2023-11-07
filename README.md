@@ -1,5 +1,5 @@
 # THINKALOUD
-Online diary publishing platform based on Jarkarta Servlet employed in MVC architecture and RESTful backend APIs.
+Online diary publishing platform based on Jarkarta Servlet employed in MVC architecture, AJAX and RESTful backend APIs.
 
 # Author
 吴子豪
