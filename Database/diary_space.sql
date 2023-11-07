@@ -16,14 +16,10 @@
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
-
 CREATE DATABASE diary_space
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_0900_ai_ci;
-ALTER DATABASE diary_space ENGINE=InnoDB;
-
 USE diary_space;
-
 -- ----------------------------
 -- Table structure for comment
 -- ----------------------------
