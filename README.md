@@ -35,11 +35,9 @@ Administrator end:
 Replace all your local files in /.idea with repo in THINKALOUD/idea-project-config.
 
 # Database Confifuration
-
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/c0dbd056-7176-4565-9e81-a9723c62c5ce)
 
 # Tomcat Prerun Config
-
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/71473b94-48a1-45a7-b631-716e666d12b6)
 
 
