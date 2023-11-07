@@ -1,7 +1,7 @@
 # THINKALOUD
 Online diary publishing platform based on Jarkarta Servlet employed in MVC architecture.
 
-#Author
+# Author
 吴子豪
 vortezwohl@proton.me
 
