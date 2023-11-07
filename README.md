@@ -34,7 +34,7 @@ Administrator end:
 # Idea Config
 Replace all your local files in /.idea with repo in THINKALOUD/idea-project-config.
 
-# Database Confifuration Bean
+# Database Confifuration
 
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/c0dbd056-7176-4565-9e81-a9723c62c5ce)
 
