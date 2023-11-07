@@ -3,12 +3,16 @@ Online diary publishing platform based on Jarkarta Servlet employed in MVC archi
 
 # Preview
 
+Login:
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/d60501e7-3831-4d18-b421-0583085cfdf8)
 
+Viewer end:
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/dd75911e-c7c0-484a-aa5d-03c3ec581b2d)
 
+Writer end:
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/36c27eea-1b9f-4ee3-9120-d3c19baf5ea2)
 
+Administrator end:
 ![image](https://github.com/vortezwohl/THINKALOUD/assets/117743023/a83cd206-5653-48e5-bc83-bf45c67f7706)
 
 # Instructions For Management System
